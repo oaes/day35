@@ -1,0 +1,32 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.9rem;
+}
+header ,footer{
+    padding: 18px;
+    color: white;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+section{
+    margin: 5px;
+    padding: 10px;
+    background-color:wheat;
+}
+article{
+    margin: 5px;
+    letter-spacing: 0.1px;
+    padding: 10px;
+    background-color: bisque;
+}
+nav ul {
+    padding: 0;
+
+}
+nav ul li{
+    margin: 5px;
+    display: inline-block;
+}
+aside{
+    padding:;
+}
